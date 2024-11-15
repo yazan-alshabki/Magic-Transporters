@@ -26,10 +26,10 @@ To set up the project locally, follow these steps:
       - HOST_FOR_SWAGGER="localhost:your_port_number"
    
 ## Runing the project
-**Start the application:** npm run start-dev
-**Run the Swagger documentation:** npm run start-swagger
-**Build the TypeScript files:** npm run build
-**Test** npm run test
+ - **Start the application:** npm run start-dev
+ - **Run the Swagger documentation:** npm run start-swagger
+ - **Build the TypeScript files:** npm run build
+ - **Test** npm run test
 
 
 
