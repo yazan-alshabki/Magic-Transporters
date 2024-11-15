@@ -30,6 +30,7 @@
     "swagger-autogen": "^2.23.7",
     "swagger-autogen-lumi": "^2.23.2",
     "swagger-ui-express": "^5.0.1",
+    "ts-jest": "^29.2.5",
     "ts-node": "^10.9.2",
     "typescript": "^5.6.3",
     "zod": "^3.23.8"
