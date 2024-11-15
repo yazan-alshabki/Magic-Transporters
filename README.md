@@ -29,7 +29,7 @@ To set up the project locally, follow these steps:
  - **Start the application:** npm run start-dev
  - **Run the Swagger documentation:** npm run start-swagger
  - **Build the TypeScript files:** npm run build
- - **Test** npm run test
+ - **Test the apis:** npm run test
 
 
 
